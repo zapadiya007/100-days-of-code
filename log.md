@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 0 : 26 August 2023
+
+**Today's Progress** : Start 100DaysOfCode Challenge 
+
+**Thoughts** : Today i decided to Start 100DaysOfCode challenge that improve my learning and coding journey. 
+
+
+
+<!-- 
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -28,3 +38,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
