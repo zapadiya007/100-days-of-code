@@ -1,13 +1,32 @@
 # 100 Days Of Code - Log
 
-### Day 0 : 26 August 2023
 
-**Today's Progress** : Start 100DaysOfCode Challenge 
+<br/><br/>
+## Day 0 : 26 August 2023
 
-**Thoughts** : Today i decided to Start 100DaysOfCode challenge that improve my learning and coding journey. 
+**Today's Progress** : 
+- Start 100DaysOfCode Challenge 
+
+**Thoughts** : 
+- Today i decided to Start 100DaysOfCode challenge that improve my learning and coding journey. 
+
+
+<br/><br/>
+## Day 1 : 27 August 2023
+
+**Today's Progress** : 
+- Learn HTML
+
+**Thoughts** : 
+- Learn HTML by Building a Cat Photo App With FreeCodeCamp (Responsive Web Design)
 
 
 
+
+
+
+
+<br/><br/><br/><br/>
 <!-- 
 
 ### Day 0: February 30, 2016 (Example 1)
