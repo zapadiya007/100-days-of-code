@@ -6,6 +6,12 @@ The log of my #100DaysOfCode challenge. Started on *26 August 2023, Saturday*.
 
 ### R1D1
 
+- Start Cat Photo App
+
+### R1D2 
+
+- Complete Cat Photo App
+
 
 
 <!--
