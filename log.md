@@ -21,7 +21,16 @@
 - Learn HTML by Building a Cat Photo App With FreeCodeCamp (Responsive Web Design)
 
 
+<br/><br/>
+## Day 2 : 28 August 2023
 
+**Today's Progress** : 
+- Add Form in Cat Photo App
+- Complete Cat Photo App
+
+**Thoughts** : 
+- Use action,input,button,label,
+- Use firldset and legend elements 
 
 
 
