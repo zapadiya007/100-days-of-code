@@ -33,6 +33,17 @@
 - Use firldset and legend elements 
 
 
+<br/><br/>
+## Day 3 : 29 August 2023
+
+**Today's Progress** : 
+- Work on Login Page
+
+**Thoughts** : 
+- Start work on responsive log-in page
+- fetch form data 
+
+
 
 
 <br/><br/><br/><br/>
