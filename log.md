@@ -43,6 +43,16 @@
 - Start work on responsive log-in page
 - fetch form data 
 
+<br/><br/>
+## Day 4 : 30 August 2023
+
+**Today's Progress** : 
+- Learn Basic CSS
+
+**Thoughts** : 
+- Learn Basic CSS by Building a Cafe Menu
+- Use simple Selector 
+
 
 
 
