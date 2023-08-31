@@ -54,6 +54,14 @@
 - Use simple Selector 
 
 
+<br/><br/>
+## Day 5 : 31 August 2023
+
+**Today's Progress** : 
+- Work on Cafe Menu CSS
+
+**Thoughts** : 
+- Complete main section
 
 
 <br/><br/><br/><br/>
