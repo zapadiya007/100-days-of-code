@@ -64,6 +64,17 @@
 - Complete main section
 
 
+<br/><br/>
+## Day 6 : 01 September 2023
+
+**Today's Progress** : 
+- how to work emmet and lorem
+
+**Thoughts** : 
+- Start recap html and css and also learn what is emmet and lorem and how to work.
+
+  
+
 <br/><br/><br/><br/>
 <!-- 
 
