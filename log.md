@@ -73,6 +73,16 @@
 **Thoughts** : 
 - Start recap html and css and also learn what is emmet and lorem and how to work.
 
+
+<br/><br/>
+## Day 7 : 02 September 2023
+
+**Today's Progress** : 
+- Complete Cafe Menu Web App
+
+**Thoughts** : 
+- Add footer and Change Margins and padding.
+
   
 
 <br/><br/><br/><br/>
