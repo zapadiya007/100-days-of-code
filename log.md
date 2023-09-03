@@ -83,6 +83,15 @@
 **Thoughts** : 
 - Add footer and Change Margins and padding.
 
+
+<br/><br/>
+## Day 8 : 03 September 2023
+
+**Today's Progress** : 
+- Buy Domain and Set-up 
+
+**Thoughts** : 
+- understanding on domain and set-up
   
 
 <br/><br/><br/><br/>
