@@ -106,6 +106,14 @@
 - Watching some template Website that great for my learning 
 
 
+<br/><br/>
+## Day 10 : 05 September 2023
+
+**Today's Progress** : 
+- Add some future Project in Portfolio website
+- Add Footer and and some CSS
+- Fetching some difficulty in GitHub
+- So Create issue in GitHub for tomorrow 
 
 
 
