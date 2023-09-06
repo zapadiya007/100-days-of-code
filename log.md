@@ -113,7 +113,17 @@
 - Add some future Project in Portfolio website
 - Add Footer and and some CSS
 - Fetching some difficulty in GitHub
-- So Create issue in GitHub for tomorrow 
+- So Create issue in GitHub for tomorrow
+
+
+<br/><br/>
+## Day 11 : 06 September 2023
+
+**Today's Progress** : 
+- Add some future Project in Portfolio website
+- Noting important
+- design village model
+- analysis village and there working model
 
 
 
